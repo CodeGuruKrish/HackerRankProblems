@@ -1,0 +1,4 @@
+Hello this is a sample world example. We are checking if Boston Red Sox is being censored form the document. After 
+that we can have either Pepperoni Pizza or Cheese Pizza along with some beer
+ world example. We are checking if Boston Red Sox is. After 
+that we can have either Pepperoni Pizza or Cheese Pizza along with some beer
